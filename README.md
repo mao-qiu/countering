@@ -1,4 +1,4 @@
-Thanks for your attention. This is the source code of our VLDB 2024 submission "Influence Maximization via Vertex Countering".
+Thanks for your attention. This is the source code of our VLDB 2024 "Influence Maximization via Vertex Countering".
 
 # Experimental Environment
 
