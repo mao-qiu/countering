@@ -1,0 +1,12 @@
+CXX = g++
+CXXFLAGS = -g -O3 -std=c++17 -Wall
+
+all: main
+
+main: main.cpp dynamic.cpp
+	$(CXX) $(CXXFLAGS) -o $@ $^
+
+.PHONY: clean
+
+clean:
+	rm -f main
